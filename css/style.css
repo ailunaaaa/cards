@@ -129,6 +129,11 @@ section{
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+.cards{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 .sec_tit{
 	text-align: center;
 	color: blue;
@@ -137,3 +142,9 @@ section{
 	font-size: 15px;
 	color: green;
 }
+.card img{
+	width: 50px;
+	display: flex;
+}
+.
+
